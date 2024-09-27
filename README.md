@@ -143,5 +143,7 @@ We will clone and build it from your GitHub repo. We will not get code from any 
 * Extra credit:
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
+    * I looked into the feature “Take bug report,” it captures a report and has it available to view on the emulator. The report contains logs, stack traces, and other information to help developers find bugs. I would use this feature in this class because it will help me find bugs in my application. It might be a bit complicated to read through the logs, but with some practice I think it can be really helpful.
+
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
